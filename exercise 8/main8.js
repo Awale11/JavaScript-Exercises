@@ -1,4 +1,4 @@
-// Ojects
+// Objects
 
 let car = {
     make:  2020,
