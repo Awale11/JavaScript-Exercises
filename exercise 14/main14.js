@@ -17,8 +17,4 @@ console.log("soo dhawaw mudane/marwo")
 // }while(number >=20);
 // console.log("Bienvenu monsieur/madame")
 
-let counter = 10;
-while (counter > 0) {
-    console.log("Countdown: " + counter);
-    counter--;
-}
+
