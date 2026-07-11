@@ -6,7 +6,7 @@ const fruits = ["apple", "banana", "cherry"]
 // console.log(fruits[1]);
 // console.log(fruits[2]);
 
-// Using "LOOP FOR"
+// Using "FOR LOOP"
 
 for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i])
