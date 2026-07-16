@@ -1,0 +1,9 @@
+{
+    "name": "Awale",
+    "School": "Al-Anwar",
+    "city": "xamar",
+    "lessons":[
+        { "lecon1": "Tarbiyo", "lecon2": "Crabi"},
+        { "lecon3": "xisaab", "lecon4": "englsih"}
+    ]
+}
